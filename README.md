@@ -9,7 +9,7 @@
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Anamika%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="Yhttps://anamika-singh-portfolio-git-main-anuritgithubs-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="Yhttps://anamika-singh-portfolio-git-main-anuritgithubs-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 👩‍💻 About Me
