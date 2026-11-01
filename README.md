@@ -141,13 +141,7 @@ A full-stack platform for AI testing workflows, including data diagnostics, bias
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true" alt="Featured Repository" />
-</a>
-
-<br/>
-
-[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anamika-Singh1?tab=repositories)
 
 </div>
 
@@ -157,9 +151,9 @@ A full-stack platform for AI testing workflows, including data diagnostics, bias
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anamika-Singh1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika-Singh1&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
@@ -169,7 +163,7 @@ A full-stack platform for AI testing workflows, including data diagnostics, bias
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=Anamika-Singh1&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -179,7 +173,7 @@ A full-stack platform for AI testing workflows, including data diagnostics, bias
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anamika-Singh1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -189,7 +183,7 @@ A full-stack platform for AI testing workflows, including data diagnostics, bias
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anamika-Singh1&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -209,7 +203,7 @@ If you're looking for a developer passionate about **React, Full-Stack Engineeri
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Anamika-Singh1&color=blueviolet&style=for-the-badge)
 
 ### ⭐ Thanks for visiting my profile!
 
