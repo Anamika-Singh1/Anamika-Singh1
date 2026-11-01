@@ -133,8 +133,6 @@ A full-stack platform for AI testing workflows, including data diagnostics, bias
 - Automated testing
 - Detailed reports and insights
 
-> 📌 Explore my repositories below to see more of my work.
-
 ---
 
 ## 📌 Featured Repositories
@@ -151,9 +149,9 @@ A full-stack platform for AI testing workflows, including data diagnostics, bias
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anamika-Singh1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+<img src="https://github-stats-extended.vercel.app/api?username=Anamika-Singh1&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika-Singh1&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anamika-Singh1&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages" />
 
 </div>
 
@@ -173,7 +171,9 @@ A full-stack platform for AI testing workflows, including data diagnostics, bias
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anamika-Singh1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+<a href="https://github.com/Anamika-Singh1">
+  <img src="https://ghchart.rshah.org/36BCF7/Anamika-Singh1" alt="GitHub Contribution Calendar" />
+</a>
 
 </div>
 
@@ -183,7 +183,11 @@ A full-stack platform for AI testing workflows, including data diagnostics, bias
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anamika-Singh1&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Anamika-Singh1&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" />
+
+<br/>
+
+[![View GitHub Achievements](https://img.shields.io/badge/View_GitHub_Achievements-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anamika-Singh1?tab=achievements)
 
 </div>
 
